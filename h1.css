@@ -1,0 +1,18 @@
+body {
+	background-color:#feee8e;
+}
+
+h1{
+	text-shadow: 3px 3px white;
+	font-size:8vw;  text-align: center;
+  animation: mymove 10s infinite;
+  padding-top: 50px;
+	  user-select: none;
+
+}
+
+@keyframes mymove {
+  50% {transform: rotateY(180deg);}
+}
+	
+}
