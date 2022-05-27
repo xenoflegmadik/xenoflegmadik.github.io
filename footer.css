@@ -3,8 +3,10 @@ footer {
 	padding-top: 50px;
 	border-top: double 10px;
 	}
-.ftrimg {
+.xflegftr {
 	padding-left:50px;
+}
+.ftrimg {
 	width: 25%; 
   user-select:none;
 }
