@@ -15,6 +15,7 @@ footer {
   user-select:none;
 } 
 .seenon {
+	padding-left:50px;
 	font-size:2vw;
 	float:right;
 }
