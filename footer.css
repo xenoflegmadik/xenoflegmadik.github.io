@@ -4,14 +4,14 @@ footer {
 	border-top: double 10px;
 	}
 .xflegftr {
-	text-align:center;
+	float:left;
 }
 .ftrimg {
   width: 25%; 
   user-select:none;
 }
 .nftclndr {
-  width: 25%; 
+  width: 30%; 
   user-select:none;
 } 
 .seenon {
