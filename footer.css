@@ -1,9 +1,9 @@
 footer {
+	text-align:center;
 	padding-top: 50px;
 	border-top: double 10px;
 	}
 .xflegftr {
-	text-align:center;
 }
 .ftrimg {
   width: 25%; 
@@ -14,7 +14,6 @@ footer {
   user-select:none;
 } 
 .seenon {
-	text-align:center;
 	font-size:1.5vw;
 	float:right;
 }
