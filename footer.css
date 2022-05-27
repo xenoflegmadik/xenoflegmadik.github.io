@@ -1,6 +1,5 @@
 footer {
 	padding-top: 50px;
-	padding-bottom: 50px;
 	border-top: double 10px;
 	}
 .xflegftr {
@@ -11,7 +10,7 @@ footer {
   user-select:none;
 }
 .nftclndr {
-  width: 25%
+  width: 25%;
   user-select:none;
 } 
 .seenon {
