@@ -4,6 +4,7 @@ footer {
 	border-top: double 10px;
 	}
 .ftrimg {
+	padding-left:10%;
 	width: 25%; 
   user-select:none;
 }
