@@ -4,11 +4,9 @@ footer {
 	padding-top: 50px;
 	border-top: double 10px;
 	}
-.xflegftr {
-	float:left;
-}
 .ftrimg {
-  width: 25%; 
+	float:left;
+	width: 25%; 
   user-select:none;
 }
 .nftclndr {
@@ -16,7 +14,7 @@ footer {
   user-select:none;
 } 
 .seenon {
-	font-size:1.5vw;
+	font-size:1.7vw;
 	float:right;
 }
 	
