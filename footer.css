@@ -1,9 +1,11 @@
 footer {
 	text-align:center;
+	padding-bottom:50px;
 	padding-top: 50px;
 	border-top: double 10px;
 	}
 .xflegftr {
+	float:left;
 }
 .ftrimg {
   width: 25%; 
