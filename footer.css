@@ -4,7 +4,6 @@ footer {
 	border-top: double 10px;
 	}
 .ftrimg {
-	float:left;
 	width: 25%; 
   user-select:none;
 }
@@ -13,7 +12,7 @@ footer {
   user-select:none;
 } 
 .seenon {
-	font-size:1.7vw;
+	font-size:2vw;
 	float:right;
 }
 	
