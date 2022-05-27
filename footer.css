@@ -1,11 +1,10 @@
 footer {
 	padding-top: 50px;
-	padding bottom: 50px;
+	padding-bottom: 50px;
 	border-top: double 10px;
 	}
 .xflegftr {
-	padding-left:25%;
-	padding-bottom: 50px;
+	text-align:center;
 }
 .ftrimg {
   width: 25%; 
@@ -16,6 +15,7 @@ footer {
   user-select:none;
 } 
 .seenon {
+	text-align:center;
 	font-size:1.5vw;
 	float:right;
 }
