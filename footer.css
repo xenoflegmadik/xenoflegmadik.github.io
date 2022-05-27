@@ -2,14 +2,18 @@ footer {
 	padding-top: 50px;
 	padding bottom: 50px;
 	border-top: double 10px;
-	text-align:center;
-}
+	}
 .ftrimg {
+  text-align:center;
   width: 25%; 
   user-select:none;
 }
 .nftclndr {
-  padding left: 150px;
   width: 15%; 
   user-select:none;
 } 
+.seenon {
+	font-size:2.5em;
+	text-align:left;
+}
+	
