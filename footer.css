@@ -5,7 +5,6 @@ footer {
 	border-top: double 10px;
 	}
 .xflegftr {
-	position: fixed;
 	margin-left:50px;
 	}
 .ftrimg {
@@ -18,7 +17,6 @@ footer {
   user-select:none;
 } 
 .seenon {
-	position : fixed;
 	font-size:2vw;
 	float:right;
 	margin-left:50px;
