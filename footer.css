@@ -5,8 +5,9 @@ footer {
 	border-top: double 10px;
 	}
 .xflegftr {
-	padding-left:50px;
-}
+	float:left;
+	margin:auto;
+	}
 .ftrimg {
 	width: 30; 
   user-select:none;
@@ -17,6 +18,7 @@ footer {
 } 
 .seenon {
 	font-size:2vw;
-	
+	float:right;
+	margin:auto;
 }
 	
