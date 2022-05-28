@@ -5,19 +5,22 @@ footer {
 	border-top: double 10px;
 	}
 .xflegftr {
-	
+	position :absolute;
 	margin-left:50px;
 	}
 .ftrimg {
+	position :absolute;
 	float:left;
 	width: 30%; 
   user-select:none;
 }
 .nftclndr {
+	position :absolute;
   width: 25%;
   user-select:none;
 } 
 .seenon {
+	position :absolute;
 	font-size:2vw;
 	float:right;
 	margin-left:50px;
