@@ -17,8 +17,7 @@ td {
 }
 th, td {
 	background-color: #feee8e;
-	
-   text-shadow: 1px 1px 50px #FFFFFF#FFFFFF, 0 0 50px #FFFFFF, 0 0 50px #feee8e;
+	text-shadow: 1px 1px 50px white white, 0 0 50px white, 0 0 50px #feee8e;
 }
 th, td {
 	padding: 10px;
