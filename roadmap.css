@@ -15,7 +15,7 @@ th {
 td {
 		font-size:1.5vw;
 }
-.others:hover , .achieved:hover {
+th , td {
 	background-color: #feee8e;
 	
    text-shadow: 1px 1px 50px #FFFFFF#FFFFFF, 0 0 50px #FFFFFF, 0 0 50px #feee8e;
@@ -31,7 +31,5 @@ th, td {
 	font-size:5vw;
 	)
 .progress{
-	background-color: #FFFFFF;
-	
-   text-shadow: 1px 1px 50px #FFFFFF, 0 0 50px #FFFFFF, 0 0 50px #feee8e;
-}
+	text-decoration: underline overline dotted #FFFFFF;
+	}
