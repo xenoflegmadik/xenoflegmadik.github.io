@@ -30,3 +30,8 @@ th, td {
 .rm{
 	font-size:5vw;
 	)
+.progress{
+	background-color: #feee8e;
+	
+   text-shadow: 1px 1px 50px white, 0 0 50px white, 0 0 50px #feee8e;
+}
