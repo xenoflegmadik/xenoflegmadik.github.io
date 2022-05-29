@@ -27,7 +27,7 @@ th, td {
 	text-decoration-line: line-through;
 }
 .progress{
-	text-decoration: underline overline dotted #FFFFFF;
+	text-decoration: underline overline dotted black;
 	}
 
 .rm{
